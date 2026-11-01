@@ -1,0 +1,23 @@
+{
+  "name": "EcoSchool Waste Management",
+  "short_name": "EcoSchool",
+  "description": "School waste management, recycling logs, eco points and learning hub.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6faf6",
+  "theme_color": "#104d36",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
